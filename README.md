@@ -8,4 +8,4 @@ You can click the Preview link to take a look at your changes.
 ![](https://avatars3.githubusercontent.com/u/31112269?v=4&s=25)
 
 ![](https://user-images.githubusercontent.com/66971484/148293004-77015e4b-2bfc-4652-b704-1011f575f0c7.png=s=25)
-<img src="https://your-image-url.type" width="100" height="100">
+<img src="https://user-images.githubusercontent.com/66971484/148293004-77015e4b-2bfc-4652-b704-1011f575f0c7.png" width="100" height="100">
