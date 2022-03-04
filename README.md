@@ -7,3 +7,11 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <img src="https://user-images.githubusercontent.com/66971484/148293004-77015e4b-2bfc-4652-b704-1011f575f0c7.png" width="50" height="50"> <img src="https://user-images.githubusercontent.com/66971484/148293896-34ee2f9b-6c2f-45ee-8462-0410955b946d.png" width="50" height="50"> <img src="https://user-images.githubusercontent.com/66971484/148294236-47e05495-da19-4a7e-85c0-919e64f71611.png" width="50" height="50"> 
+
+
+
+## 🌐 Join Us
+### Discord Server
+[![DISCORD](https://invidget.switchblade.xyz/Nzsb5weQFg)](https://discord.com/invite/UNfdzPf)
+### WhatsApp Group
+# [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/LQynah0fcfp2YSi7kp1vsG)
