@@ -12,6 +12,6 @@ You can click the Preview link to take a look at your changes.
 
 ## 🌐 Join Us
 ### Discord Server
-[![DISCORD](https://invidget.switchblade.xyz/Nzsb5weQFg)](https://discord.com/invite/UNfdzPf)
+[![DISCORD](https://invidget.switchblade.xyz/UNfdzPf)](https://discord.com/invite/UNfdzPf)
 ### WhatsApp Group
 # [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/LQynah0fcfp2YSi7kp1vsG)
