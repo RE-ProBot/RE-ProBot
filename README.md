@@ -50,7 +50,7 @@ class NOTBUMP:
 </a>
 
 <a href="https://github.com/RE-ProBot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=loTus04&show_icons=true&line_height=27&count_private=true&title_color=ff3855&text_color=30d5c8&icon_color=ffff00&bg_color=291b29" alt="loTus04's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RE-ProBot&show_icons=true&line_height=27&count_private=true&title_color=ff3855&text_color=30d5c8&icon_color=ffff00&bg_color=291b29" alt="loTus04's GitHub Stats" />
 </a>
 </br>
 </br>
