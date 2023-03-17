@@ -48,7 +48,7 @@ class NOTBUMP:
 </br>
 
 <a href="https://github.com/RE-ProBot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loTus04&title_color=ff3855&text_color=30d5c8&icon_color=ffff00&bg_color=291b29" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RE-ProBot&title_color=ff3855&text_color=30d5c8&icon_color=ffff00&bg_color=291b29" />
 </a>
 
 <a href="https://github.com/RE-ProBot">
