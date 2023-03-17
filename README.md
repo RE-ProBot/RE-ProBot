@@ -37,11 +37,11 @@ class NOTBUMP:
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/xiaotox-devfr?tab=followers">
-  <img src="https://img.shields.io/github/followers/loTus04">
+  <img src="https://img.shields.io/github/followers/RE-ProBot">
 </a>
 
 <a href="https://github.com/RE-ProBot">
-   <img src="https://komarev.com/ghpvc/?username=loTus04">
+   <img src="https://komarev.com/ghpvc/?username=RE-ProBot">
 </a>
 </br>
 
