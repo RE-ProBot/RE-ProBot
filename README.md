@@ -1,5 +1,5 @@
 ```python
-┌──(loTus04㉿root)-[~/devlab]
+┌──(notbump㉿root)-[~/devlab]
 └─$ cat RE-ProBot.py
 
 class NOTBUMP:
