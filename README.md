@@ -31,7 +31,9 @@ class NOTBUMP:
 
 
 
-
+## 🌐 Follow us!
+### Discord Server
+[![DISCORD](https://invidget.switchblade.xyz/UNfdzPf)](https://discord.com/invite/UNfdzPf)
 
 
 ## &#x1f4c8; GitHub Stats
